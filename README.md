@@ -1,3 +1,7 @@
+Built my MOONCITY
+
+https://x.com/0xmooncity
+
 # [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20create%20your%20own%20AI%20powered%20Twitter%20bot?%0ATry%20this%20one%20that%20searches%20for%20tweets%20with%20specific%20keywords%20and%20replies%20with%20comments%20generated%20by%20@OpenAI&url=https://github.com/sojinsamuel/Twitter-Comment-Bot&hashtags=chatgpt) Twitter Comment Bot
 
 This Twitter Comment bot comments on tweets containing a specified keyword. The bot uses the OpenAI API to generate comments and the Twitter API to post them. It is designed to run continuously, with a fixed delay between each comment.
@@ -38,6 +42,5 @@ I am glad to make this bot available for you to use, If you need help in setting
 
 Starting from now, all bots must be developed using the Twitter API v2.
 
-I can help you migrate your project to the new API. Feel free to contact me [here](mailto:sojinsamuel2001@gmail.com) for assistance.
 
 To verify this deprecation and learn more, please visit [this link](https://twittercommunity.com/t/reminder-to-migrate-to-the-new-free-basic-or-enterprise-plans-of-the-twitter-api/189737).
